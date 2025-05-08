@@ -14,11 +14,13 @@ I build data systems that solve real problems. Whether it's analyzing Hollywood 
 
 ## 🚀 Featured Projects
 
-- **Actors Historical Analysis**: A time machine for movie analytics! Created a system tracking Hollywood actors from 1924-2021 that reveals career trajectories and performance patterns.
-
 - **Real-Time Website Users Analysis**: Built interactive dashboards that transform visitor behavior into actionable insights for marketing teams.
 
+- **Web User Analysis**: Developed an interactive analytics platform that helps businesses understand user behavior patterns across their websites to optimize engagement and conversion.
+
 - **Stock Growth Analysis**: Developed predictive models that identify investment opportunities by analyzing historical market patterns.
+
+- **Actors Historical Analysis**: A time machine for movie analytics! Created a system tracking Hollywood actors from 1924-2021 that reveals career trajectories and performance patterns.
 
 ## 🏆 Achievements
 
@@ -35,7 +37,3 @@ I'm always open to discussing data challenges, new opportunities, or just chatti
 - 📧 [Email](mailto:bhaskar07v@gmail.com)
 
 *"The best way to predict the future is to create it with data."*
-<!---
-vanteddubhaskarreddy/vanteddubhaskarreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
